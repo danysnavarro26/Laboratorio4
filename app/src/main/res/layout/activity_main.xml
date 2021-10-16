@@ -12,7 +12,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="32dp"
-        android:text="Fórmula"
+        android:text=" Formula general"
         android:textAlignment="center"
         android:textColor="#05235C"
         android:textSize="34sp"
